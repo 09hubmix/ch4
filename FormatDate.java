@@ -1,4 +1,4 @@
-public class printDate {
+public class FormatDate {
 	public static void printAmerican(String day, int date, String month, int year) {
 	System.out.println(day + ", " + month + " " + date + ", " + year);
 	}
